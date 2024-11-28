@@ -604,12 +604,3 @@ npm run start-dev
 2. [JavaScript Maps](https://www.w3schools.com/js/js_object_maps.asp)
 3. [JavaScript Maps](https://www.w3schools.com/js/js_object_sets.asp)
 4. [JavaScript WeakMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
-
-# :man: Author and Credits.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
-
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
-
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
-
-:thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project and learning resources.
