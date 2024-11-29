@@ -305,5 +305,3 @@ npm install
 
 ```
 > [:point_right: Go to project](0x05-Node_JS_basic)
-<!---->
-
